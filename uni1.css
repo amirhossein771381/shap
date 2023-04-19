@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+p{
+    color: red;
+}
+#div1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    background-color: blue;
+}
